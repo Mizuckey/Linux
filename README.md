@@ -1,0 +1,12 @@
+# COMMANDS
+- ls
+- mkdir
+- cd
+- cp
+- &&
+- pwd
+- touch
+- mv
+- rm
+- cat
+- vi
